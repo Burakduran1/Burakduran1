@@ -1,7 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C#
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
 - - 📫 How to reach me: burak.duran44@hotmail.com
 - 
 <!--
