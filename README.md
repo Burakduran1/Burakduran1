@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning .Net
 - - 📫 How to reach me: burak.duran44@hotmail.com
 - 
 <!--
